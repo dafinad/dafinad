@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate about Data Science, specializing in Machine Learning and Deep Learning. Always eager to learn and take on new challenges in the tech world.</h3>
 
 <img align="right" alt="gif" width="400" src="https://github.com/dafinad/dafinad/blob/main/girlcoding.gif">
+
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **dafinadz@outlook.com**
