@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dafinad&show_icons=true&locale=en" alt="dafinad" /></p> -->
-< br / > 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dafinad&" alt="dafinad" /></p>
+
+<br/> <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dafinad&" alt="dafinad" /></p>
