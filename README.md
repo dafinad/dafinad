@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **dafinadz@outlook.com**
 
-- ⚡ Fun fact **EXO fanatic**
+
 
 
 <h3 align="left">Connect with me:</h3>
